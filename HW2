@@ -1,0 +1,200 @@
+Georgia 17.4 60 Missing Data Georgia Assault Imputed Value 
+Average (All States) 7.8 169.9 65.5 
+Georgia 17.4 60 379.7 
+Median (All States) 7.25 159 66 
+Georgia 17.4 60 381.6 
+State Murder Assault UrbanPop 
+Tennessee 13.2 188 59 
+North Carolina 13 337 45 
+South Carolina 14.4 279 48 
+Florida 15.4 335 80 
+Alabama 13.2 236 58 
+ 13.8 275.0 58.0 
+Georgia 17.4 60 345.7 Plot histogram of assaults 
+Assault
+400 
+350 
+300 
+250 
+200 
+150 
+100 
+50 
+0 
+a 
+
+Plot Murder rate vs. Assault rate. 
+
+ 250.00  200.00  150.00  100.00 
+ 50.00  - 
+Murder vs Assault 
+Small Medium Large Jumbo Murder Assault
+Large 
+Jumbo 
+Grouped the sThere is some
+
+Prepare the dataset to establish a relation between an urban population category and a crimeHint: Convert the urban population percentage into categories, for example,  small (<50%), medium (<60%), large (<70%), and extra-large (70% and above) urban population. 
+State Murder Assault UrbanPop 
+Vermont 2.2 48 32 1 West Virginia 5.7 81 39 2 Mississippi 16.1 259 44 3 North Dakota 0.8 45 44 4 North Carolina 13 337 45 5 South Dakota 3.8 86 45 6 Alaska 10 263 48 7 South Carolina 14.4 279 48 8 Arkansas 8.8 190 50 9 Maine 2.1 83 51 10 Kentucky 9.7 109 52 11 Montana 6 109 53 12 Idaho 2.6 120 54 13 New Hampshire 2.1 57 56 14 Iowa 2.2 56 57 15 Alabama 13.2 236 58 16 Tennessee 13.2 188 59 17 Georgia 17.4 - 60 18 Wyoming 6.8 161 60 19 Nebraska 4.3 102 62 20 
+Virginia 8.5 156 63 21 
+Indiana 7.2 113 65 22 
+Kansas 6 115 66 23 
+Louisiana 15.4 249 66 24 
+Minnesota 2.7 72 66 25 
+Wisconsin 2.6 53 66 26 
+Maryland 11.3 300 67 27 
+Oregon 4.9 159 67 28 
+Oklahoma 6.6 151 68 29 
+Missouri 9 178 70 30 
+New Mexico 11.4 285 70 31 
+Delaware 5.9 238 72 32 
+Pennsylvania 6.3 106 72 33 
+Washington 4 145 73 34 
+Michigan 12.1 255 74 35 
+Ohio 7.3 120 75 36 
+Connecticut 3.3 110 77 37 
+Colorado 7.9 204 78 38 
+Arizona 8.1 294 80 39 
+Florida 15.4 335 80 40 
+Texas 12.7 201 80 41 
+Utah 3.2 120 80 42 
+Nevada 12.2 252 81 43 
+Hawaii 5.3 46 83 44 
+Illinois 10.4 249 83 45 
+Massachusetts 4.4 149 85 46 
+New York 11.1 254 86 47 
+Rhode Island 3.4 174 87 48 
+New Jersey 7.4 159 89 49 
+California 9 276 91 50 
+Hint: Convert the urban population percentage into categories, for example,  
+small (<50%), medium (<60%), large (<70%), and extra-large (70% and above) urban population. Revised: 
+small (<55%), medium (<67%), large (<80%), and extra-large (80% and above) urban population. 
+Problem 2. This problem's dataset involves child mortality rates and is inspired by data collected from UNICEF. T he original dataset is available here: https://github.com/bforoura/IDS/tree/main/HW2Links to an external site. 
+According to the report, the world has achieved substantial success in reducing child  mortality during the last few decades. According to the UNICEF report, globally  the under-five age mortality rate has decreased from 93 deaths per 1,000 live births in 1990 to less than 
+However, the dataset has a number of missing instances, which need to be fixed  before a clear progress on child mortality can be explained from the year of 1990 to 2016. Use this datas
+Address all the missing values using the techniques at your disposal. <5 Mortality 
+100 
+70 
+90 60 
+80 
+
+70 60 50 40 30 
+
+
+
+
+50 40 30 20 
+
+y = 0.0023x 
+
+y = 0.0038x3 - 0.1754x2 + 0.0393x + 92.734 
+20 
+10 
+R² = 0.9997 
+10 
+0 
+0 
+0 5 10 15 20 25 30 0
+Year Year Predicted Value Year 1997 8 83.8 2002 2005 16 64.0 2007 2010 21 51.4 2014 
+I plotted the data and fitted the 3rd degree polynomial which gave me a very strong cThe numbers are shown above and the correlations were all .999 and up! 
+
+Year <5 Mortality 
+Infant  
+Mortality 
+Neonatal  Mortality  
+
+1990 93.4 64.8 36.8 1991 92.1 63.9 36.3 1992 90.9 63.1 35.9 1993 89.7 62.3 35.4 1994 88.7 61.4 35.0 
+1995 87.3 60.5 34.4 1996 85.6 59.4 33.7 1997 83.8 58.2 33.1 1998 82.1 56.9 32.3 1999 79.9 55.4 31.5 2000 77.5 53.9 30.7 2001 74.8 52.1 29.8 2002 72 50.4 28.9 2003 69.2 48.6 28 2004 66.7 46.9 27.0 
+2005 64.0 45.1 26.1 2006 61.1 43.4 25.3 2007 58.5 42.1 24.4 
+2008 56.2 40.3 23.6 
+2009 53.7 38.8 22.9 
+2010 51.4 37.4 22.2 
+2011 49.3 36 21.5 
+2012 47.3 34.7 20.8 
+2013 45.5 33.6 20.2 
+2014 43.7 32.6 19.6 
+2015 42.2 31.4 19.1 
+2016 40.8 30.5 18.6 
+Prepare the dataset to establish the following relations (graphs in Excel): 
+--Under-five mortality rate and neonatal mortality rate. 
+--Infant mortality rate and neonatal mortality rate. 
+--Year and infant mortality rate. 
+Hint: You may think of converting the mortality rates into five-point Likert scale values  (e.g., fully agree, agree, neutral, disagree, fully disagree). You may count the year before this  dataset (i.e., 1989) as the starting point of this program, to assess the progress we have made as th
+Child Mortality Progress 
+100 
+90 
+80 
+70 
+60 
+50 
+40 
+30 
+20 
+10 
+0 
+199019911992199319941995199619971998199920002001200220032004200520062007200820092010201120122013201420152016 <5 Mortality Infant Mortality Neonatal Mortality
+The graph very clear;y shows the progress in child mortality over the time span. 
+s per 100,000 residents for assault and murder, 
+ of the population living in 
+s to an external site. 
+ dataset for analysis. 
+ssing Data Georgia Assault 
+puted Value 
+ 380.64 
+ 359.7 Georgia Assault Selected Value 60/40 weight of surrounding states and all st
+o 
+
+Murder Assault UrbanPop 
+Small 7.32 154.54 46.54 
+Medium 7.82 147.52 61.85 
+Large 7.50 187.58 71.92 
+Jumbo 8.55 209.08 83.75 
+Grouped the states into size catagories ( just a little different from the suggested to evThere is some correlation between crime rates and increasing Urban concentration. 
+lation category and a crime type. 
+ above) urban population.
+ above) urban population. 
+ above) urban population. 
+ta collected from UNICEF. T 
+2Links to an external site. 
+irths in 1990 to less than 50 in 2016. 
+90 to 2016. Use this dataset to complete the following tasks:
+Infant Mortality 
+40 
+35 
+
+30 
+
+
+25 
+
+20 
+15 
+y = 0.0023x3 - 0.1028x2 - 0.1479x + 64.66 
+10 
+R² = 0.9998 
+5 
+0 
+5 10 15 20 25 30 
+
+y = 0.0011x3 - 0.05x 
+R² = 0.9998 
+0 5
+
+Year Predicted Value Year Year 13 50.4 1994 5 18 42.1 2004 15 25 32.6 
+ve me a very strong correlation to the data. I use this to fill in the missin numbers.  and up! 
+t Likert scale values  
+t the year before this  
+rogress we have made as the years have passed. 
+2016
+ the time span. 
+unding states and all states
+om the suggested to even the groupings) Urban concentration.
+Neonatal Mortality 
+
+3 - 0.05x2 - 0.1572x + 36.875 
+R² = 0.9998 
+10 15 20 25 30 
+Predicted Value 
+ 35.0 
+ 27.0 
+in numbers. 
