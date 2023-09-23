@@ -1,0 +1,191 @@
+[
+ {
+   "Year": 1990,
+   "under_5_Mortality": 93.4,
+   "Infant_Mortality": 64.8,
+   "Neonatal_Mortality": 36.8,
+   "Above_5_Mortality": 6.6
+ },
+ {
+   "Year": 1991,
+   "under_5_Mortality": 92.1,
+   "Infant_Mortality": 63.9,
+   "Neonatal_Mortality": 36.3,
+   "Above_5_Mortality": 7.9
+ },
+ {
+   "Year": 1992,
+   "under_5_Mortality": 90.9,
+   "Infant_Mortality": 63.1,
+   "Neonatal_Mortality": 35.9,
+   "Above_5_Mortality": 9.1
+ },
+ {
+   "Year": 1993,
+   "under_5_Mortality": 89.7,
+   "Infant_Mortality": 62.3,
+   "Neonatal_Mortality": 35.4,
+   "Above_5_Mortality": 10.3
+ },
+ {
+   "Year": 1994,
+   "under_5_Mortality": 88.7,
+   "Infant_Mortality": 61.4,
+   "Neonatal_Mortality": 26.1,
+   "Above_5_Mortality": 11.3
+ },
+ {
+   "Year": 1995,
+   "under_5_Mortality": 87.3,
+   "Infant_Mortality": 60.5,
+   "Neonatal_Mortality": 34.4,
+   "Above_5_Mortality": 12.7
+ },
+ {
+   "Year": 1996,
+   "under_5_Mortality": 85.6,
+   "Infant_Mortality": 59.4,
+   "Neonatal_Mortality": 33.7,
+   "Above_5_Mortality": 14.4
+ },
+ {
+   "Year": 1997,
+   "under_5_Mortality": 66.7,
+   "Infant_Mortality": 58.2,
+   "Neonatal_Mortality": 33.1,
+   "Above_5_Mortality": 33.3
+ },
+ {
+   "Year": 1998,
+   "under_5_Mortality": 82.1,
+   "Infant_Mortality": 56.9,
+   "Neonatal_Mortality": 32.3,
+   "Above_5_Mortality": 17.9
+ },
+ {
+   "Year": 1999,
+   "under_5_Mortality": 79.9,
+   "Infant_Mortality": 55.4,
+   "Neonatal_Mortality": 31.5,
+   "Above_5_Mortality": 20.1
+ },
+ {
+   "Year": 2000,
+   "under_5_Mortality": 77.5,
+   "Infant_Mortality": 53.9,
+   "Neonatal_Mortality": 30.7,
+   "Above_5_Mortality": 22.5
+ },
+ {
+   "Year": 2001,
+   "under_5_Mortality": 74.8,
+   "Infant_Mortality": 52.1,
+   "Neonatal_Mortality": 29.8,
+   "Above_5_Mortality": 25.2
+ },
+ {
+   "Year": 2002,
+   "under_5_Mortality": 72,
+   "Infant_Mortality": 46.9,
+   "Neonatal_Mortality": 28.9,
+   "Above_5_Mortality": 28
+ },
+ {
+   "Year": 2003,
+   "under_5_Mortality": 69.2,
+   "Infant_Mortality": 48.6,
+   "Neonatal_Mortality": 28,
+   "Above_5_Mortality": 30.8
+ },
+ {
+   "Year": 2004,
+   "under_5_Mortality": 66.7,
+   "Infant_Mortality": 46.9,
+   "Neonatal_Mortality": 26.1,
+   "Above_5_Mortality": 33.3
+ },
+ {
+   "Year": 2005,
+   "under_5_Mortality": 66.7,
+   "Infant_Mortality": 45.1,
+   "Neonatal_Mortality": 26.1,
+   "Above_5_Mortality": 33.3
+ },
+ {
+   "Year": 2006,
+   "under_5_Mortality": 61.1,
+   "Infant_Mortality": 43.4,
+   "Neonatal_Mortality": 25.3,
+   "Above_5_Mortality": 38.9
+ },
+ {
+   "Year": 2007,
+   "under_5_Mortality": 58.5,
+   "Infant_Mortality": 46.9,
+   "Neonatal_Mortality": 24.4,
+   "Above_5_Mortality": 41.5
+ },
+ {
+   "Year": 2008,
+   "under_5_Mortality": 56.2,
+   "Infant_Mortality": 40.3,
+   "Neonatal_Mortality": 23.6,
+   "Above_5_Mortality": 43.8
+ },
+ {
+   "Year": 2009,
+   "under_5_Mortality": 53.7,
+   "Infant_Mortality": 38.8,
+   "Neonatal_Mortality": 22.9,
+   "Above_5_Mortality": 46.3
+ },
+ {
+   "Year": 2010,
+   "under_5_Mortality": 66.7,
+   "Infant_Mortality": 37.4,
+   "Neonatal_Mortality": 22.2,
+   "Above_5_Mortality": 33.3
+ },
+ {
+   "Year": 2011,
+   "under_5_Mortality": 49.3,
+   "Infant_Mortality": 36,
+   "Neonatal_Mortality": 21.5,
+   "Above_5_Mortality": 50.7
+ },
+ {
+   "Year": 2012,
+   "under_5_Mortality": 47.3,
+   "Infant_Mortality": 34.7,
+   "Neonatal_Mortality": 20.8,
+   "Above_5_Mortality": 52.7
+ },
+ {
+   "Year": 2013,
+   "under_5_Mortality": 45.5,
+   "Infant_Mortality": 33.6,
+   "Neonatal_Mortality": 20.2,
+   "Above_5_Mortality": 54.5
+ },
+ {
+   "Year": 2014,
+   "under_5_Mortality": 43.7,
+   "Infant_Mortality": 46.9,
+   "Neonatal_Mortality": 19.6,
+   "Above_5_Mortality": 56.3
+ },
+ {
+   "Year": 2015,
+   "under_5_Mortality": 42.2,
+   "Infant_Mortality": 31.4,
+   "Neonatal_Mortality": 19.1,
+   "Above_5_Mortality": 57.8
+ },
+ {
+   "Year": 2016,
+   "under_5_Mortality": 40.8,
+   "Infant_Mortality": 30.5,
+   "Neonatal_Mortality": 18.6,
+   "Above_5_Mortality": 59.2
+ }
+]

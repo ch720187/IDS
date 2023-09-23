@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.spreadsheet">
+ <office:meta><meta:document-statistic meta:table-count="1" meta:cell-count="140" meta:object-count="0"/><meta:generator>LibreOffice/7.5.4.2$Linux_X86_64 LibreOffice_project/36ccfdc35048b057fd9854c757a8b67ec53977b6</meta:generator></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="VisibleAreaTop" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">0</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">13356</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">12644</config:config-item>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AutoCalculate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GridColor" config:type="int">12632256</config:config-item>
+   <config:config-item config:name="HasColumnRowHeaders" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="HasSheetTabs" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="IsDocumentShared" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsOutlineSymbolsSet" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsRasterAxisSynchronized" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsSnapToRaster" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">3</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="RasterIsVisible" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RasterResolutionX" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterResolutionY" config:type="int">1270</config:config-item>
+   <config:config-item config:name="RasterSubdivisionX" config:type="int">1</config:config-item>
+   <config:config-item config:name="RasterSubdivisionY" config:type="int">1</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ShowGrid" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowNotes" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowPageBreaks" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ShowZeroValues" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item-map-named config:name="ScriptConfiguration">
+    <config:config-item-map-entry config:name="01c4c180-c0c7-4898-a158-f48f7ed7418f">
+     <config:config-item config:name="CodeName" config:type="string">Sheet1</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-named>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="table-cell">
+   <style:paragraph-properties style:tab-stop-distance="0.5in"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-size="10pt" fo:language="en" fo:country="US" style:font-name-asian="Tahoma" style:font-size-asian="10pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="DejaVu Sans" style:font-size-complex="10pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <number:number-style style:name="N0">
+   <number:number number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:style style:name="Default" style:family="table-cell"/>
+  <style:style style:name="Heading" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:color="#000000" fo:font-size="24pt" fo:font-style="normal" fo:font-weight="bold" style:font-size-asian="24pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="table-cell" style:parent-style-name="Heading">
+   <style:text-properties fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
+  </style:style>
+  <style:style style:name="Text" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Note" style:family="table-cell" style:parent-style-name="Text">
+   <style:table-cell-properties fo:background-color="#ffffcc" style:diagonal-bl-tr="none" style:diagonal-tl-br="none" fo:border="0.74pt solid #808080"/>
+   <style:text-properties fo:color="#333333"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#808080" fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Hyperlink" style:family="table-cell" style:parent-style-name="Text">
+   <style:text-properties fo:color="#0000ee" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="#0000ee"/>
+  </style:style>
+  <style:style style:name="Status" style:family="table-cell" style:parent-style-name="Default"/>
+  <style:style style:name="Good" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ccffcc"/>
+   <style:text-properties fo:color="#006600"/>
+  </style:style>
+  <style:style style:name="Neutral" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffffcc"/>
+   <style:text-properties fo:color="#996600"/>
+  </style:style>
+  <style:style style:name="Bad" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#ffcccc"/>
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Warning" style:family="table-cell" style:parent-style-name="Status">
+   <style:text-properties fo:color="#cc0000"/>
+  </style:style>
+  <style:style style:name="Error" style:family="table-cell" style:parent-style-name="Status">
+   <style:table-cell-properties fo:background-color="#cc0000"/>
+   <style:text-properties fo:color="#ffffff" fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Accent_20_1" style:display-name="Accent 1" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#000000"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_2" style:display-name="Accent 2" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#808080"/>
+   <style:text-properties fo:color="#ffffff"/>
+  </style:style>
+  <style:style style:name="Accent_20_3" style:display-name="Accent 3" style:family="table-cell" style:parent-style-name="Accent">
+   <style:table-cell-properties fo:background-color="#dddddd"/>
+  </style:style>
+  <style:style style:name="Result" style:family="table-cell" style:parent-style-name="Default">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="co1" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.389in"/>
+  </style:style>
+  <style:style style:name="co2" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2252in"/>
+  </style:style>
+  <style:style style:name="co3" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.0862in"/>
+  </style:style>
+  <style:style style:name="co4" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="1.2791in"/>
+  </style:style>
+  <style:style style:name="co5" style:family="table-column">
+   <style:table-column-properties fo:break-before="auto" style:column-width="0.889in"/>
+  </style:style>
+  <style:style style:name="ro1" style:family="table-row">
+   <style:table-row-properties style:row-height="0.178in" fo:break-before="auto" style:use-optimal-row-height="true"/>
+  </style:style>
+  <style:style style:name="ta1" style:family="table" style:master-page-name="Default">
+   <style:table-properties table:display="true" style:writing-mode="lr-tb"/>
+  </style:style>
+  <number:number-style style:name="N2">
+   <number:number number:decimal-places="2" number:min-decimal-places="2" number:min-integer-digits="1"/>
+  </number:number-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in"/>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in"/>
+   </style:footer-style>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties style:writing-mode="lr-tb"/>
+   <style:header-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-bottom="0.0984in" fo:border="1.5pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:header-style>
+   <style:footer-style>
+    <style:header-footer-properties fo:min-height="0.2953in" fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0.0984in" fo:border="1.5pt solid #000000" fo:padding="0.0071in" fo:background-color="#c0c0c0">
+     <style:background-image/>
+    </style:header-footer-properties>
+   </style:footer-style>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Default" style:page-layout-name="pm1">
+   <style:header>
+    <text:p><text:sheet-name>???</text:sheet-name></text:p>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+  <style:master-page style:name="Report" style:page-layout-name="pm2">
+   <style:header>
+    <style:region-left>
+     <text:p><text:sheet-name>???</text:sheet-name><text:s/>(<text:title>???</text:title>)</text:p>
+    </style:region-left>
+    <style:region-right>
+     <text:p><text:date style:data-style-name="N2" text:date-value="2023-09-21">00/00/0000</text:date>, <text:time>00:00:00</text:time></text:p>
+    </style:region-right>
+   </style:header>
+   <style:header-left style:display="false"/>
+   <style:header-first style:display="false"/>
+   <style:footer>
+    <text:p>Page <text:page-number>1</text:page-number><text:s/>/ <text:page-count>99</text:page-count></text:p>
+   </style:footer>
+   <style:footer-left style:display="false"/>
+   <style:footer-first style:display="false"/>
+  </style:master-page>
+ </office:master-styles>
+ <office:body>
+  <office:spreadsheet>
+   <table:calculation-settings table:automatic-find-labels="false" table:use-regular-expressions="false" table:use-wildcards="true"/>
+   <table:table table:name="01c4c180-c0c7-4898-a158-f48f7ed7418f" table:style-name="ta1">
+    <table:table-column table:style-name="co1" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co2" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co3" table:default-cell-style-name="Default"/>
+    <table:table-column table:style-name="co4" table:number-columns-repeated="2" table:default-cell-style-name="Default"/>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Year</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>under_5_Mortality</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Infant_Mortality</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Neonatal_Mortality</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="string" calcext:value-type="string">
+      <text:p>Above_5_Mortality</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1990" calcext:value-type="float">
+      <text:p>1990</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="93.4" calcext:value-type="float">
+      <text:p>93.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="64.8" calcext:value-type="float">
+      <text:p>64.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="36.8" calcext:value-type="float">
+      <text:p>36.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="6.6" calcext:value-type="float">
+      <text:p>6.6</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1991" calcext:value-type="float">
+      <text:p>1991</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="92.1" calcext:value-type="float">
+      <text:p>92.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="63.9" calcext:value-type="float">
+      <text:p>63.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="36.3" calcext:value-type="float">
+      <text:p>36.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="7.9" calcext:value-type="float">
+      <text:p>7.9</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1992" calcext:value-type="float">
+      <text:p>1992</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="90.9" calcext:value-type="float">
+      <text:p>90.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="63.1" calcext:value-type="float">
+      <text:p>63.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="35.9" calcext:value-type="float">
+      <text:p>35.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="9.1" calcext:value-type="float">
+      <text:p>9.1</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1993" calcext:value-type="float">
+      <text:p>1993</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="89.7" calcext:value-type="float">
+      <text:p>89.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="62.3" calcext:value-type="float">
+      <text:p>62.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="35.4" calcext:value-type="float">
+      <text:p>35.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="10.3" calcext:value-type="float">
+      <text:p>10.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1994" calcext:value-type="float">
+      <text:p>1994</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="88.7" calcext:value-type="float">
+      <text:p>88.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="61.4" calcext:value-type="float">
+      <text:p>61.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26.1" calcext:value-type="float">
+      <text:p>26.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="11.3" calcext:value-type="float">
+      <text:p>11.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1995" calcext:value-type="float">
+      <text:p>1995</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="87.3" calcext:value-type="float">
+      <text:p>87.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="60.5" calcext:value-type="float">
+      <text:p>60.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="34.4" calcext:value-type="float">
+      <text:p>34.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="12.7" calcext:value-type="float">
+      <text:p>12.7</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1996" calcext:value-type="float">
+      <text:p>1996</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="85.6" calcext:value-type="float">
+      <text:p>85.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="59.4" calcext:value-type="float">
+      <text:p>59.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.7" calcext:value-type="float">
+      <text:p>33.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="14.4" calcext:value-type="float">
+      <text:p>14.4</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1997" calcext:value-type="float">
+      <text:p>1997</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="66.7" calcext:value-type="float">
+      <text:p>66.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="58.2" calcext:value-type="float">
+      <text:p>58.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.1" calcext:value-type="float">
+      <text:p>33.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.3" calcext:value-type="float">
+      <text:p>33.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1998" calcext:value-type="float">
+      <text:p>1998</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="82.1" calcext:value-type="float">
+      <text:p>82.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="56.9" calcext:value-type="float">
+      <text:p>56.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="32.3" calcext:value-type="float">
+      <text:p>32.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="17.9" calcext:value-type="float">
+      <text:p>17.9</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="1999" calcext:value-type="float">
+      <text:p>1999</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="79.9" calcext:value-type="float">
+      <text:p>79.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="55.4" calcext:value-type="float">
+      <text:p>55.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="31.5" calcext:value-type="float">
+      <text:p>31.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20.1" calcext:value-type="float">
+      <text:p>20.1</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2000" calcext:value-type="float">
+      <text:p>2000</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="77.5" calcext:value-type="float">
+      <text:p>77.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53.9" calcext:value-type="float">
+      <text:p>53.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30.7" calcext:value-type="float">
+      <text:p>30.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22.5" calcext:value-type="float">
+      <text:p>22.5</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2001" calcext:value-type="float">
+      <text:p>2001</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="74.8" calcext:value-type="float">
+      <text:p>74.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="52.1" calcext:value-type="float">
+      <text:p>52.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="29.8" calcext:value-type="float">
+      <text:p>29.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25.2" calcext:value-type="float">
+      <text:p>25.2</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2002" calcext:value-type="float">
+      <text:p>2002</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="72" calcext:value-type="float">
+      <text:p>72</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="46.9" calcext:value-type="float">
+      <text:p>46.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28.9" calcext:value-type="float">
+      <text:p>28.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2003" calcext:value-type="float">
+      <text:p>2003</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="69.2" calcext:value-type="float">
+      <text:p>69.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="48.6" calcext:value-type="float">
+      <text:p>48.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="28" calcext:value-type="float">
+      <text:p>28</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30.8" calcext:value-type="float">
+      <text:p>30.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2004" calcext:value-type="float">
+      <text:p>2004</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="66.7" calcext:value-type="float">
+      <text:p>66.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="46.9" calcext:value-type="float">
+      <text:p>46.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26.1" calcext:value-type="float">
+      <text:p>26.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.3" calcext:value-type="float">
+      <text:p>33.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2005" calcext:value-type="float">
+      <text:p>2005</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="66.7" calcext:value-type="float">
+      <text:p>66.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="45.1" calcext:value-type="float">
+      <text:p>45.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="26.1" calcext:value-type="float">
+      <text:p>26.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.3" calcext:value-type="float">
+      <text:p>33.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2006" calcext:value-type="float">
+      <text:p>2006</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="61.1" calcext:value-type="float">
+      <text:p>61.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="43.4" calcext:value-type="float">
+      <text:p>43.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="25.3" calcext:value-type="float">
+      <text:p>25.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="38.9" calcext:value-type="float">
+      <text:p>38.9</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2007" calcext:value-type="float">
+      <text:p>2007</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="58.5" calcext:value-type="float">
+      <text:p>58.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="46.9" calcext:value-type="float">
+      <text:p>46.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="24.4" calcext:value-type="float">
+      <text:p>24.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="41.5" calcext:value-type="float">
+      <text:p>41.5</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2008" calcext:value-type="float">
+      <text:p>2008</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="56.2" calcext:value-type="float">
+      <text:p>56.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="40.3" calcext:value-type="float">
+      <text:p>40.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="23.6" calcext:value-type="float">
+      <text:p>23.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="43.8" calcext:value-type="float">
+      <text:p>43.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2009" calcext:value-type="float">
+      <text:p>2009</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="53.7" calcext:value-type="float">
+      <text:p>53.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="38.8" calcext:value-type="float">
+      <text:p>38.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22.9" calcext:value-type="float">
+      <text:p>22.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="46.3" calcext:value-type="float">
+      <text:p>46.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2010" calcext:value-type="float">
+      <text:p>2010</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="66.7" calcext:value-type="float">
+      <text:p>66.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="37.4" calcext:value-type="float">
+      <text:p>37.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="22.2" calcext:value-type="float">
+      <text:p>22.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.3" calcext:value-type="float">
+      <text:p>33.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2011" calcext:value-type="float">
+      <text:p>2011</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="49.3" calcext:value-type="float">
+      <text:p>49.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="36" calcext:value-type="float">
+      <text:p>36</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="21.5" calcext:value-type="float">
+      <text:p>21.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="50.7" calcext:value-type="float">
+      <text:p>50.7</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2012" calcext:value-type="float">
+      <text:p>2012</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="47.3" calcext:value-type="float">
+      <text:p>47.3</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="34.7" calcext:value-type="float">
+      <text:p>34.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20.8" calcext:value-type="float">
+      <text:p>20.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="52.7" calcext:value-type="float">
+      <text:p>52.7</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2013" calcext:value-type="float">
+      <text:p>2013</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="45.5" calcext:value-type="float">
+      <text:p>45.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="33.6" calcext:value-type="float">
+      <text:p>33.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="20.2" calcext:value-type="float">
+      <text:p>20.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="54.5" calcext:value-type="float">
+      <text:p>54.5</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2014" calcext:value-type="float">
+      <text:p>2014</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="43.7" calcext:value-type="float">
+      <text:p>43.7</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="46.9" calcext:value-type="float">
+      <text:p>46.9</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="19.6" calcext:value-type="float">
+      <text:p>19.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="56.3" calcext:value-type="float">
+      <text:p>56.3</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2015" calcext:value-type="float">
+      <text:p>2015</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="42.2" calcext:value-type="float">
+      <text:p>42.2</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="31.4" calcext:value-type="float">
+      <text:p>31.4</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="19.1" calcext:value-type="float">
+      <text:p>19.1</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="57.8" calcext:value-type="float">
+      <text:p>57.8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="ro1">
+     <table:table-cell office:value-type="float" office:value="2016" calcext:value-type="float">
+      <text:p>2016</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="40.8" calcext:value-type="float">
+      <text:p>40.8</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="30.5" calcext:value-type="float">
+      <text:p>30.5</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="18.6" calcext:value-type="float">
+      <text:p>18.6</text:p>
+     </table:table-cell>
+     <table:table-cell office:value-type="float" office:value="59.2" calcext:value-type="float">
+      <text:p>59.2</text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <table:named-expressions/>
+  </office:spreadsheet>
+ </office:body>
+</office:document>
